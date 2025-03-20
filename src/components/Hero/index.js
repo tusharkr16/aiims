@@ -20,12 +20,12 @@ const slides = [
         text: "Discover the best services tailored for you.",
     },
     {
-        image: "/img2.jpg",
+        image: img2,
         heading: "73rd Annual Conference of IAPM & IAP-ID",
         text: "We provide top-notch solutions for your needs.",
     },
     {
-        image: "/img3.jpg",
+        image: img3,
         heading: "73rd Annual Conference of IAPM & IAP-ID",
         text: "Start your journey with us and explore the possibilities.",
     },
